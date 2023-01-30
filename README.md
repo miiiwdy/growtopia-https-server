@@ -1,2 +1,5 @@
 # growtopia-https-server
-still working on it
+simple https using js
+##Anti serverdata reader
+##Ip limiter
+:dizzy:
